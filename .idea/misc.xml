@@ -3,10 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/MIU/AndroidStudioProjects/PemrogramanMobile/app/src/main/res/drawable/button_red.xml" value="0.205" />
         <entry key="..\:/Users/MIU/AndroidStudioProjects/PemrogramanMobile/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/MIU/AndroidStudioProjects/PemrogramanMobile/app/src/main/res/layout/forgot_password.xml" value="0.203125" />
+        <entry key="..\:/Users/MIU/AndroidStudioProjects/PemrogramanMobile/app/src/main/res/layout/reset_password.xml" value="0.18" />
         <entry key="..\:/Users/MIU/AndroidStudioProjects/PemrogramanMobile/app/src/main/res/layout/sign_in.xml" value="0.203125" />
         <entry key="..\:/Users/MIU/AndroidStudioProjects/PemrogramanMobile/app/src/main/res/layout/signin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MIU/AndroidStudioProjects/PemrogramanMobile/app/src/main/res/layout/success_reset.xml" value="0.203125" />
         <entry key="..\:/Users/MIU/AndroidStudioProjects/PemrogramanMobile/app/src/main/res/layout/tugas3.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/MIU/AndroidStudioProjects/PemrogramanMobile/app/src/main/res/layout/welcome.xml" value="0.25" />
+        <entry key="..\:/Users/MIU/AndroidStudioProjects/PemrogramanMobile/app/src/main/res/layout/welcome_back.xml" value="0.33" />
       </map>
     </option>
   </component>
